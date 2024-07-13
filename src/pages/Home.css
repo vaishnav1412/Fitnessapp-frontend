@@ -1,0 +1,9 @@
+.home-backgroundimage{
+    background-image: url('../assets/other/bg-original.jpg');
+    clear: both;
+}
+@media screen and (max-width: 768px) { 
+    .home-backgroundimage {
+      background-image: url('../assets/other/home2\ content.jpg'); 
+    }
+  }
